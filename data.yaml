@@ -1,0 +1,6 @@
+names:
+- Person
+nc: 1
+test: /kaggle/input/yolo-dataset/yolo_dataset/images/test
+train: /kaggle/input/yolo-dataset/yolo_dataset/images/train
+val: /kaggle/input/yolo-dataset/yolo_dataset/images/val
